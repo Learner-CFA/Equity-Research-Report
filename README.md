@@ -1,2 +1,2 @@
 # Equity-Research-Report
-This repository serves as a collection of all the relevant components to create an Equity Research Report, demonstrating the ability of the author to create one.
+The content of this repository will be filled over time with an Excel Model, Documentation on the Research Process as well as a finished research report on a publicly listed german defense company. It is intended for (i) my future employer to showcase what I will have taught myself and (ii) for other aspiring students/graduates who did not study finance but want to pivot in that direction. All the content included is from publicly available sources as well as best estimates by the author. 
